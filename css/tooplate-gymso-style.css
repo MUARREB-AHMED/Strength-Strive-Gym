@@ -75,6 +75,11 @@ https://www.tooplate.com/view/2119-gymso-fitness
     font-weight: var(--font-weight-thin);
     line-height: normal;
   }
+  .button10{
+    background-color: #f13a11;
+    margin-top: -5px;
+
+  }
 
   h1 {
     font-size: var(--h1-font-size);
